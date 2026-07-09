@@ -9,5 +9,8 @@
 - 自動テスト・リリースプロセスの整備
 - AIコーディングツール（Claude Code）の実務活用
 
+## 🌱 OSSコントリビュート
+- [usememos/memos #6016](https://github.com/usememos/memos/pull/6016) — エディタのCtrl+B / Ctrl+Iショートカット対応（マージ済み）
+
 ## ✍️ 発信
 - [Qiita](https://qiita.com/ay5399) — 設計品質・AI活用・アジャイル推進について書いています
